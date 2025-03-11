@@ -23,8 +23,11 @@ To run this project, follow these steps:
    ```sh
    git clone https://github.com/mojazi42/Week2ClassTaskDay3
 
+   ```
 2️⃣ Open in Android Studio
 3️⃣ Run the app on an emulator or a physical device
 4️⃣ View the login screen in action!
+
+
 
 
